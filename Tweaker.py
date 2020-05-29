@@ -63,7 +63,7 @@ while int(accuracy) < 90 :
 import smtplib
 s = smtplib.SMTP('smtp.gmail.com', 587)
 s.starttls()
-s.login("anand31798@gmail.com", "3179724774937007")
+s.login("anand31798@gmail.com", "***************")
     # message
 message1 = "success"
     # sending the mail 
